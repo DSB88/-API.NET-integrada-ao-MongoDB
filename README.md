@@ -1,4 +1,4 @@
-<h2 align="center">Projeto: API.NET integrada ao MongoDB simples</h2
+<h2 align="center">Projeto: API.NET integrada ao MongoDB</h2
 ​    
 
 
