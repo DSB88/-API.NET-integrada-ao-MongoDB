@@ -15,7 +15,7 @@ Construindo um projeto de uma API.NET integrada ao MongoDB, feito com acompanham
 ## 🛠 Linguagens:
 
 * .Net
-* C#
+* Mongo
 
 
 
@@ -23,3 +23,4 @@ Construindo um projeto de uma API.NET integrada ao MongoDB, feito com acompanham
 ## 🛠 Ferramenta:
 
 * Visual Studio Code
+* MongoDB Atlas
